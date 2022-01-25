@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7bf178ac-f7d9-429e-8f90-baef23e4d8c9}">
+		<property name="assetPath">
+			<value>female-vocals-ah_130bpm_C_minor.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.230770975056689</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a66eb7a-e531-467f-9e40-d2f0a704aced}</destination>
+		</relationship>
+	</object>
+</objects>
